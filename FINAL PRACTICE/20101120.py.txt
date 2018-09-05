@@ -1,0 +1,7 @@
+
+class HW():
+	pass
+HW1=HW()
+HW1.score=100
+
+print HW1.score

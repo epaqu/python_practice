@@ -1,0 +1,6 @@
+1. py: h1 
+2. py: HW1
+1. py: h1.score 
+2. py: HW1.score
+1. py: print h1.score
+2. py: print HW1.score
